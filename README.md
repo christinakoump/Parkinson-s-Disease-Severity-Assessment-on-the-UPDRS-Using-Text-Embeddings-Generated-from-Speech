@@ -23,3 +23,14 @@ SVR (Support Vector Regression)
 Grid search over kernels (RBF, linear, sigmoid)
 PCA + scaling pipeline
 Leave-One-Out cross-validation
+
+## Dataset (PC-GITA)
+
+This project uses the PC-GITA dataset for Parkinson’s disease speech analysis.
+
+The dataset is **not included in this repository** due to size and licensing constraints.
+
+To run the pipeline, download PC-GITA separately and set the path:
+
+```bash
+export PCGITA_DATA_PATH=/path/to/PC-GITA
