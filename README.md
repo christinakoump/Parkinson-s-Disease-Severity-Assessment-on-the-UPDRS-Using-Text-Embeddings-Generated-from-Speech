@@ -1,0 +1,2 @@
+# Parkinson-s-Disease-Severity-Assessment-on-the-UPDRS-Using-Text-Embeddings-Generated-from-Speech
+A speech-to-text embedding pipeline is implemented using the pre-trained Whisper transformer model in combination with a transformer-based sentence-embedding model. Specifically, the aim of this implementation is the design of an end-to-end pipeline that transforms pathological speech into meaningful semantic representations. 
