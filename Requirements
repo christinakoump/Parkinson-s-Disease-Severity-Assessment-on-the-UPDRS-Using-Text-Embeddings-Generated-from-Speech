@@ -1,0 +1,9 @@
+torch
+torchaudio
+openai-whisper
+sentence-transformers
+scikit-learn
+pandas
+numpy
+tqdm
+openpyxl
