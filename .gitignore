@@ -1,0 +1,22 @@
+# dataset
+data/
+*.wav
+
+# outputs
+outputs/
+*.csv
+
+# models
+models/
+*.pt
+*.bin
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# whisper cache
+.cache/
