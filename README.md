@@ -34,3 +34,5 @@ To run the pipeline, download PC-GITA separately and set the path:
 
 ```bash
 export PCGITA_DATA_PATH=/path/to/PC-GITA
+
+##Instead of the existing hardcoded root path, replace it with the environment variable `PCGITA_ROOT`.
